@@ -1,3 +1,18 @@
-.bg-penguin{
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+
+.bg-penguin {
     background-color: #FFF9F4;
+}
+
+
+.bg-buy-btn {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    color: #ffffff;
+}
+
+.text-penguin {
+    color: #FA804C;
 }
